@@ -1,0 +1,10 @@
+Comentarios extras acerca de la prueba y diseño
+
+1)Las imágenes no estaban adaptadas para web
+2}El diseño preferentemente se debe entregar en Figma, Adobe XD, Photoshoop, Illustrator
+3}El tamaño y los espacios del wireframe están mal creados
+4)En la sección de awards el grid estaba mal centrado
+5)Hizo falta adjuntar la tipografía, o de menos mandar el nombre de la misma
+6)El diseño de infinite solutions da entender que es el footer final de la pag, podriamos cambiar color
+7)Faltaron varios iconos de mandar, asi que utilice capturas de pantalla 
+
