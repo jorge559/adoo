@@ -1,0 +1,218 @@
+@media (max-width: 1200px) {
+  .buynow {
+    font-size: 10px;
+  }
+
+  .img-play-v {
+    width: 280px;
+    left: 45%;
+  }
+
+  .btn-play-ap {
+    left: 150px;
+    width: 100px;
+  }
+
+  .img-play-v {
+    width: 330px;
+    left: 25%;
+    bottom: 95%;
+  }
+
+  .sqr-ap {
+    width: 100%;
+  }
+
+  .wf-p span {
+    left: 85px;
+  }
+
+  .adorn img {
+    width: 113px;
+    padding-bottom: 31px;
+  }
+
+  .jh p {
+    padding: 0;
+  }
+
+  .btn-doc,
+  .btn-pur {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 990px) {
+  header {
+    background-image: url(../images/bg-resp.jpg);
+    height: 130vh;
+    margin-bottom: 200px;
+  }
+
+  .buynow {
+    width: 100px;
+  }
+
+  .head-content h1 {
+    padding-top: 75px;
+  }
+
+  .card {
+    width: 300px;
+    display: block;
+    margin: auto;
+  }
+
+  .trusted {
+    font-size: 17px;
+  }
+
+  .img-play-v {
+    width: 283px;
+    left: 11%;
+    bottom: 93%;
+  }
+
+  .adorn {
+    left: 35%;
+  }
+
+  .sqr-tech h5 {
+    font-size: 15px;
+  }
+
+  .jh p {
+    padding: 0px 20px 0px 8px !important;
+    margin: 7px 0px 0px 3px;
+    padding: 5px 0px 5px 0px;
+    text-align: center;
+  }
+
+  .adorn-2 {
+    left: 60%;
+  }
+
+  #accordionExample button {
+    font-size: 12px;
+  }
+
+  .mb-0 span {
+    left: 90%;
+  }
+
+  .btn-doc,
+  .btn-pur {
+    font-size: 9px;
+  }
+
+  .paddin-footer {
+    padding-top: 230px;
+  }
+
+  .awards {
+    height: auto !important;
+  }
+
+  #awards {
+    height: auto;
+    padding-bottom: 50px;
+  }
+
+
+}
+
+
+@media (max-width: 767px) {
+  .img-play-v {
+    left: 9%;
+  }
+
+  .adorn-line {
+    display: none;
+  }
+
+  .features-c-2 {
+    margin-top: 30px;
+  }
+
+  #technology {
+    padding-top: 50px;
+  }
+
+  .jh p {
+    padding: 2px 20px 2px 8px !important;
+    margin: 9px 35px 0px 14px;
+  }
+
+  .sqr-tech h5 {
+    font-size: 23px;
+  }
+
+  .airb-sec {
+    margin-top: 30px;
+  }
+
+  .tec-column-2 {
+    padding-top: 50px;
+  }
+
+  .row-own-col {
+    width: 32%;
+  }
+
+
+  .amazon-awards {
+    top: -30px;
+  }
+
+}
+
+
+@media (max-width: 500px) {
+  .jh p {
+    padding: 5px 32px 5px 10px !important;
+  }
+
+  #infinite-solutions {
+    padding: 20px;
+  }
+
+  .row-own-col {
+    width: 100%;
+  }
+
+  .amazon-awards {
+    top: 0px;
+  }
+
+  .awards-sqr {
+    margin-top: 10px;
+  }
+
+  .row-own-col {
+    left: 0px;
+  }
+
+  .i-solutions {
+    margin-top: 30px;
+  }
+
+  #awards {
+    margin-top: 30px;
+    height: auto;
+  }
+
+  .paddin-footer {
+    padding-top: 174px;
+  }
+}
+
+@media (max-width: 380px) {
+  .trusted {
+    font-size: 14px;
+  }
+
+  .wf-p span {
+    left: 30px;
+  }
+}
